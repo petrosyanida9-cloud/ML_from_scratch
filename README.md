@@ -1,5 +1,6 @@
 # ML_from_scratch
-Implementations of machine learning algorithms from first principles. The goal of this repo is to move away from black-box libraries and understand the underlying optimization and math behind each model.
+Implementations of machine learning algorithms from first principles. 
+The goal of this repo is to move away from black-box libraries and understand the underlying optimization and math behind each model.
 
 Contents:
     Regression: * LinearRegression.py: Ordinary Least Squares
